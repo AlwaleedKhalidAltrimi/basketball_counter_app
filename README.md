@@ -206,8 +206,3 @@ Contributions are welcome!
 
 This project is open source and available for learning and development purposes.
 
----
-
-## 💬 Support
-
-If you encounter any issues or have feature requests, please open an issue in the repository.
